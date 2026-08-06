@@ -1,3 +1,4 @@
+adjustText==1.4.0
 aext-assistant @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d5fxz3l2ix/croot/aext-assistant_1746560160060/work
 aext-assistant-server @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1emcn1_yt0/croot/aext-assistant-server_1746552985810/work
 aext-core @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2eg8ig5bzd/croot/aext-core_1746546095117/work
@@ -50,6 +51,7 @@ babel @ file:///opt/miniconda3/conda-bld/babel_1764159365447/work
 bcrypt @ file:///opt/miniconda3/conda-bld/bcrypt_1762875116397/work
 beautifulsoup4 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_4910wm3bdc/croot/beautifulsoup4-split_1756453097265/work
 binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
+bioinfokit==2.1.4
 biopython==1.87
 black @ file:///opt/miniconda3/conda-bld/black_1760632311471/work
 bleach @ file:///opt/miniconda3/conda-bld/bleach_1764153568527/work
@@ -189,6 +191,7 @@ markdown-it-py @ file:///Users/builder/cbouss/perseverance-python-buildout/croot
 MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1f_uj4vxik/croot/markupsafe_1738584045311/work
 matplotlib==3.10.6
 matplotlib-inline @ file:///opt/miniconda3/conda-bld/matplotlib-inline_1762779171616/work
+matplotlib-venn==1.1.2
 mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
 mdit-py-plugins @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a1xgt3_h6l/croot/mdit-py-plugins_1756379990429/work
 mdurl @ file:///opt/miniconda3/conda-bld/mdurl_1758552175942/work
@@ -364,6 +367,7 @@ tenacity @ file:///opt/miniconda3/conda-bld/tenacity_1760375527847/work
 terminado @ file:///opt/miniconda3/conda-bld/terminado_1757934724536/work
 text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
 textdistance @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_ef9qmeucrx/croot/textdistance_1751314510723/work
+textwrap3==0.9.2
 threadpoolctl @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_18rgexrkuo/croot/threadpoolctl_1731006101562/work
 three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
 tifffile @ file:///opt/miniconda3/conda-bld/tifffile_1759918245092/work
